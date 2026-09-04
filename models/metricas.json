@@ -1,0 +1,6 @@
+{
+  "Sigmoid + SGD": {"test_acc": 0.8, "test_loss": 0.4614871983114734, "params": 93},
+  "ReLU + SGD": {"test_acc": 0.775, "test_loss": 0.4538830996995921, "params": 93},
+  "ReLU + Momentum": {"test_acc": 0.825, "test_loss": 0.43965055231838623, "params": 93},
+  "ReLU + Adam": {"test_acc": 0.7916666666666666, "test_loss": 0.4416545683775473, "params": 93}
+}
